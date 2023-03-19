@@ -80,4 +80,12 @@ Terminal(Línea de comandos), Git, GitHub, GitLab, Docker.
 | **REGLA 2** | **UNO SE VUELVE BUENO EN LO QUE UNO PRACTICA** |
 | **REGLA 3** | **ES MEJOR POCO A POCO TODOS LOS DÍAS QUE MUCHO DE VEZ EN CUANDO** |
 
-___
+___  
+<h3 align="center">Sígueme en:<h3/><div align="center">
+<a href="https://twitter.com/Jsmartinezl"><img src="https://i.imgur.com/QSIcVHr.png" alt="twitter" width='35'></a>             
+<a href="https://www.instagram.com/sebastian_2506/"><img src="https://i.imgur.com/xIPAC5z.png" alt="instagram" width='35'></a>             
+<a href="https://www.youtube.com/channel/UCRGAAz7myGJRXbq8Pd_0M-Q"><img src="https://i.imgur.com/kWTU98Y.png" alt="youtube" width='35'></a>             
+<a href="https://www.facebook.com/people/Sebastian-Martinez/1327096202/"><img src="https://i.imgur.com/kQFkmTx.png" alt="facebook" width='35'></a>            
+<a href="https://github.com/sebastianMartinez25"><img src="https://i.imgur.com/FtuTx7K.png" alt="GitHub" width='35'></a>
+<a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-losada-a9199a1a8"><img src="https://i.imgur.com/dUIqFlF.png" alt="Linkedin" width='35'></a>
+<div/>
